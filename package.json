@@ -1,14 +1,14 @@
 {
   "name": "sprint-12",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Создание сервера на Express",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sergei Osokin",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^6.8.0",
